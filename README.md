@@ -14,7 +14,7 @@ This portfolio website acts as a digital resume and personal brand hub, helping 
 The website was built using the following tools and technologies:<br>
 • HTML5 – Structural framework of the website.<br>
 • CSS3 – Styling, animations, and responsive layouts.<br>
-• JavaScript (Vanilla JS) – Dynamic interactions such as navigation toggles and form validation.<br>
+• JavaScript – Dynamic interactions such as navigation toggles and form validation.<br>
 • PHP – Backend functionality for handling form submissions via email.<br>
 
 4. Data Source
