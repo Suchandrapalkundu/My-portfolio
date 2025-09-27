@@ -65,5 +65,11 @@ To create a professional, recruiter-friendly portfolio that highlights both hard
 • Future Proof: Easily expandable with new skills or projects.
 
 6. Screenshots / Demos
-
-Live Demo: [Your Portfolio Link]
+   
+ [Home_Portfolio](https://github.com/Suchandrapalkundu/My-portfolio/blob/main/Home_Portfolio.png)
+ [About_Portfolio](https://github.com/Suchandrapalkundu/My-portfolio/blob/main/About_Portfolio.png)
+ [Skills_Portfolio](https://github.com/Suchandrapalkundu/My-portfolio/blob/main/Skills_Portfolio.png)
+ [Project_Portfolio](https://github.com/Suchandrapalkundu/My-portfolio/blob/main/Project_Portfolio.png)
+ [Contact_Portfolio](https://github.com/Suchandrapalkundu/My-portfolio/blob/main/Contact_Portfolio.png)
+Live Demo:
+[My_Portfolio](https://suchandrapalkundu.infinityfreeapp.com)
