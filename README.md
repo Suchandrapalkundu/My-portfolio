@@ -36,22 +36,22 @@ To create a professional, recruiter-friendly portfolio that highlights both hard
 
 🔹 Walkthrough of Key Sections
 
-• Home Section
+• Home Section :
   Clean hero banner with name, role, and quick social links (GitHub, LinkedIn).
 
-• About Section
+• About Section :
   Short overview of career aspirations, interests, and background.
 
-• Skills Section
+• Skills Section :
 
-* Technical Skills: Programming languages, frameworks, tools, and platforms.
+*  Technical Skills: Programming languages, frameworks, tools, and platforms.
 
-* Professional Skills: Teamwork, leadership, problem-solving, communication.
+*  Professional Skills: Teamwork, leadership, problem-solving, communication.
 
-• Projects Section
+• Projects Section :
   Detailed view of projects with visuals, descriptions, and links to code/live demos.
 
-• Contact Section
+• Contact Section :
   PHP-backed form for email communication plus direct links to professional networks.
   
 🔹 Business Impact & Insights
