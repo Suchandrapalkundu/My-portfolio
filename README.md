@@ -25,7 +25,7 @@ The content is self-curated, including:
 
 • Skills: Divided into Technical Skills (programming, tools, frameworks) and Professional Skills (communication, teamwork,   problem-solving).
 
-• Projects: Showcased with descriptions, images, and GitHub/live demo links.
+• Projects: Showcased with descriptions, images, and GitHub links.
 
 • Contact: PHP-enabled form for direct communication plus social links.
 
