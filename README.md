@@ -71,5 +71,5 @@ To create a professional, recruiter-friendly portfolio that highlights both hard
  [Skills_Portfolio](https://github.com/Suchandrapalkundu/My-portfolio/blob/main/Skills_Portfolio.png)
  [Project_Portfolio](https://github.com/Suchandrapalkundu/My-portfolio/blob/main/Project_Portfolio.png)
  [Contact_Portfolio](https://github.com/Suchandrapalkundu/My-portfolio/blob/main/Contact_Portfolio.png)
-Live Demo:
-[My_Portfolio](https://suchandrapalkundu.infinityfreeapp.com)
+ Live Demo:
+ [My_Portfolio](https://suchandrapalkundu.infinityfreeapp.com)
